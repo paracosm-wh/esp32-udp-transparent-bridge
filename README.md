@@ -41,7 +41,7 @@ Component -> ESP System Settings -> CPU Frequency : 240 MHZ
 
 ## 编译
 
-在开始编译之前，请确保您已经正确安装并配置了[ESP-IDF] (https://docs.espressif.com/projects/esp-idf/zh_CN/stable/esp32/get-started/linux-macos-setup.html)  开发环境。
+在开始编译之前，请确保您已经正确安装并配置了[ESP-IDF](https://docs.espressif.com/projects/esp-idf/zh_CN/stable/esp32/get-started/linux-macos-setup.html) 开发环境。
 
 1.  **设置 ESP-IDF 环境**:
     ```bash
